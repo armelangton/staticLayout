@@ -1,0 +1,5 @@
+<div class="container-2 w-container">
+
+<div class="div-block centered">
+<img src="images/laptop-large.png">
+loading="lazy" sizes="(max-width: 479px) 87vw, (max-width: 767px) 88vw, (max-width: 991px) 500px, 610px" srcset="images/laptop-large-p-500.png 500w, images/laptop-large-p-800.png 800w, images/laptop-large-p-1080.png 1080w, images/laptop-large-p-1600.png 1600w, images/laptop-large-p-2000.png 2000w, images/laptop-large.png 2363w" alt="" 
